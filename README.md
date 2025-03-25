@@ -6,11 +6,11 @@ CareerCompass is a project designed to help individuals navigate their career pa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CareerCompass.git
+   git clone https://github.com/Kavindu-Wijesekara/career-path-recommendation-platform.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd CareerCompass
+   cd career-path-recommendation-platform
    ```
 3. Install dependencies:
    ```bash
